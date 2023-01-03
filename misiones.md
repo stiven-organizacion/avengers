@@ -1,3 +1,4 @@
 # Misiones
 
-* investigiar misiones para **hoy**
+* investigar misiones para **hoy**
+* Capturar el **punto de control** de la **misión** de **hoy**
