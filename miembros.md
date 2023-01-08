@@ -17,4 +17,4 @@
 * Vision
 * Wasp
 * Antman
-* thor
+* thors
